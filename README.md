@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0039-combination-sum) |
 | [0200-number-of-islands](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0695-max-area-of-island](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0695-max-area-of-island) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0133-clone-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
