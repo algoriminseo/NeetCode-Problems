@@ -12,30 +12,28 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         # map each course to prereq list
-        preMap = { i: [] for i in range(numCourses) }
+        preMap = {i : [] for i in range(numCourses)}
         for crs, pre in prerequisites:
             preMap[crs].append(pre)
-        
-        visitSet = set()
+
+        visiting = set()
+
         def dfs(crs):
-            # Visit course twice
-            if crs in visitSet:
+            if crs in visiting:
                 return False
             if preMap[crs] == []:
                 return True
 
-            visitSet.add(crs)
+            visiting.add(crs)
             for pre in preMap[crs]:
                 if not dfs(pre): return False
             
-            visitSet.remove(crs)
+            visiting.remove(crs)
             preMap[crs] = []
             return True
-
+        
         for crs in range(numCourses):
             if not dfs(crs): return False
         return True
-
-
 
 
