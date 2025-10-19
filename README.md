@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0213-house-robber-ii) |
 ## Two Pointers
 |  |
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0210-course-schedule-ii) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
