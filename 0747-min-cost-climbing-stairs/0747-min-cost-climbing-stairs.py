@@ -3,6 +3,7 @@
 
 # 2 <= cost.length <= 1000
 # 0 <= cost[i] <= 999
+# Time Complexity : O(n), where n is length of the array
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
         n = len(cost)
