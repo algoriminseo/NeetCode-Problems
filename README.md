@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0695-max-area-of-island) |
+| [0747-min-cost-climbing-stairs](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0213-house-robber-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
