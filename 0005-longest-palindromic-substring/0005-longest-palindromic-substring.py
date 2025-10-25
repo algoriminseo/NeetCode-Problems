@@ -1,3 +1,6 @@
+#Time Complexity : O(n)
+#Space Compelxity : O(`1)
+
 # Constraints:
 
 # 1 <= s.length <= 1000
@@ -8,20 +11,20 @@ class Solution:
         res_len = 0 
 
         for i in range(len(s)):
-            l, r = i, i
+            l, r = i, i 
             while l >= 0 and r < len(s) and s[l] == s[r]:
-                if (r - l +1) > res_len:
-                    res_index = l
-                    res_len = r - l + 1
+                if (r- l + 1)  > res_len:
+                    res_len = (r - l + 1)
+                    res_index = l 
                 l -= 1
                 r += 1
             
-            l, r = i , i + 1
+            l, r = i, i + 1
             while l >= 0 and r < len(s) and s[l] == s[r]:
-                if (r - l +1) > res_len:
-                    res_index = l
-                    res_len = r - l + 1
+                if (r - l + 1)  > res_len:
+                    res_len = (r - l + 1)
+                    res_index = l 
                 l -= 1
                 r += 1
 
-        return s[res_index :res_index + res_len]
+        return s[res_index : res_index + res_len]
