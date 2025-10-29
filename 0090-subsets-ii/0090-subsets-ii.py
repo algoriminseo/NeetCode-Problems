@@ -2,7 +2,7 @@
 
 # 1 <= nums.length <= 10
 # -10 <= nums[i] <= 10
-
+#Time Complexity : O(N * 2 ^N)
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
         res, subset = [], []
