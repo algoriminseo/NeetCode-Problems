@@ -8,21 +8,19 @@
 
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-        memo = {len(s) : True}
-        def dfs(i):
-            if i in memo:
-                return memo[i]
-            
-            for word in wordDict:
-                if ((i + len(word)) <= len(s) and s[i : i + len(word)] == word):
-                    if dfs(i + len(word)):
-                        memo[i] = True
-                        return True
+        dp = [False] * (len(s) + 1)
+        dp[len(s)] = True
 
-            memo[i] = False
-            return False
+        for i in range(len(s) -1, -1, -1):
+            for w in wordDict:
+                if (i + len(w) <= len(s) and s[i : i + len(w)] == w):
+                    dp[i] = dp[i + len(w)]
+                if dp[i]:
+                    break
         
-        return dfs(0)
+        return dp[0]
+
+
 
 
 
