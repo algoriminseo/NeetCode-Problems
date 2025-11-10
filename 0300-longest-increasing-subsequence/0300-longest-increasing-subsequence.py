@@ -1,12 +1,17 @@
+from bisect import bisect_left
 # Time Complexity : O(n ^ 2)
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
-        n = len(nums)
-        LIS = [1] * n
+        dp = []
+        dp.append(nums[0])
 
-        for i in range(n - 1, -1, -1):
-            for j in range(i + 1, n):   
-                if nums[i] < nums[j]: 
-                    LIS[i] = max(LIS[i], LIS[j] + 1)
+        LIS = 1 
+        for i in range(1, len(nums)):
+            if dp[-1] < nums[i]:
+                dp.append(nums[i])
+                LIS += 1
+                continue
 
-        return max(LIS)
+            index = bisect_left(dp, nums[i])
+            dp[index] = nums[i]
+        return LIS
