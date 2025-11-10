@@ -4,10 +4,10 @@ class Solution:
         n = len(nums)
         LIS = [1] * n
 
-        for i in range(n - 2, -1, -1):
+        for i in range(n - 1, -1, -1):
             for j in range(i + 1, n):   
                 if LIS[i] < LIS[j]: 
                     LIS[i] = max(LIS[i], LIS[j] + 1)
                 continue
 
-        return LIS[0]
+        return max(LIS)
