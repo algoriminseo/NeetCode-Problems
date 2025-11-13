@@ -15,7 +15,7 @@ class Solution:
 
             hold[i] = max(hold[i-1], rest[i-1] - prices[i])
 
-            sold[i] = hold[i] + prices[i]
+            sold[i] = hold[i-1] + prices[i]
 
             rest[i] = max(rest[i-1], sold[i-1])
 
