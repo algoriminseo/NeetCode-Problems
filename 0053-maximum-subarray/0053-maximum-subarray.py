@@ -5,13 +5,16 @@
 
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        res, curr = nums[0], nums[0]
+        curr_sum, max_sum = nums[0], 0 
+       
+        for num in nums:
+            if curr_sum < 0:
+                curr_sum = 0 
+            curr_sum += num 
+            max_sum = max(curr_sum, max_sum)
 
-        for num in nums[1:]:
-            curr = max(curr + num, num)
+        return max_sum 
 
-            res = max(res, curr)
-        return res
             
 
             
