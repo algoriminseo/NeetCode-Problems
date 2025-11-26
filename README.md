@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0139-word-break) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0198-house-robber) |
