@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0139-word-break) |
+| [0257-binary-tree-paths](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [1143-longest-common-subsequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1250-longest-common-subsequence) |
 ## Depth-First Search
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0695-max-area-of-island) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0494-target-sum) |
 ## Topological Sort
 |  |
@@ -166,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0053-maximum-subarray) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
