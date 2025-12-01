@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0257-binary-tree-paths) |
