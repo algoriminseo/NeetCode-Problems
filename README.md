@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0130-surrounded-regions) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0139-word-break) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0200-number-of-islands) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0494-target-sum) |
