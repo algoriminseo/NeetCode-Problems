@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0695-max-area-of-island) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0257-binary-tree-paths) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
