@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1250-longest-common-subsequence) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0257-binary-tree-paths) |
+| [0678-valid-parenthesis-string](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1250-longest-common-subsequence) |
 ## Depth-First Search
@@ -204,4 +206,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
