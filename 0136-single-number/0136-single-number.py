@@ -7,6 +7,7 @@ class Solution:
         xor_result = 0 
 
         for num in nums:
-            xor_result = xor_result ^ num 
+            xor_result = xor_result * num
+
         
         return xor_result
