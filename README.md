@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0494-target-sum) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0338-counting-bits) |
 ## Trie
 |  |
 | ------- |
