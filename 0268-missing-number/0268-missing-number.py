@@ -1,8 +1,9 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        nums.sort(reverse = False)
-        for i in range(len(nums) + 1):
-            if i in nums:
-                continue
-            return i 
+        n = len(nums)
+        xor = n
+        for i in range(n):
+            xor ^= i ^ nums[i]
+
+        return xor
 
