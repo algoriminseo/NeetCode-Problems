@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0136-single-number) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0684-redundant-connection) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0268-missing-number) |
