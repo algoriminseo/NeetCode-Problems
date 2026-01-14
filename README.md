@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0051-n-queens) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0200-number-of-islands) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0139-word-break) |
