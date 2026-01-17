@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Graph
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
@@ -254,4 +259,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
