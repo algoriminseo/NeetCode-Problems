@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0055-jump-game) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0091-decode-ways) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0139-word-break) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
