@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0047-permutations-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
