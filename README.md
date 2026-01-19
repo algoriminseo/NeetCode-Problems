@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0139-word-break) |
+| [0217-contains-duplicate](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
