@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1143-longest-common-subsequence) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Graph
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
