@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0053-maximum-subarray) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0200-number-of-islands) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0268-missing-number) |
