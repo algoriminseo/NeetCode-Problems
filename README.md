@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0090-subsets-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0200-number-of-islands) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0139-word-break) |
