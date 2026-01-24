@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0079-word-search) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0268-missing-number) |
 ## Memoization
