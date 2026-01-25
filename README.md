@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0070-climbing-stairs) |
@@ -302,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
