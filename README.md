@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1584-min-cost-to-connect-all-points](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+| [2013-detect-squares](https://github.com/algoriminseo/NeetCode-Problems/tree/master/2013-detect-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [2013-detect-squares](https://github.com/algoriminseo/NeetCode-Problems/tree/master/2013-detect-squares) |
 ## Graph
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [2013-detect-squares](https://github.com/algoriminseo/NeetCode-Problems/tree/master/2013-detect-squares) |
 ## Quickselect
 |  |
 | ------- |
@@ -307,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0050-powx-n) |
+## Design
+|  |
+| ------- |
+| [2013-detect-squares](https://github.com/algoriminseo/NeetCode-Problems/tree/master/2013-detect-squares) |
 <!---LeetCode Topics End-->
