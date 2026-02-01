@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0049-group-anagrams) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0062-unique-paths) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 ## Heap (Priority Queue)
 |  |
@@ -320,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2013-detect-squares](https://github.com/algoriminseo/NeetCode-Problems/tree/master/2013-detect-squares) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
