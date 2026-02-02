@@ -12,6 +12,6 @@ class Solution:
             else:
                 stack.append(ch)
 
-        return True if not stack else False 
+        return False if stack else True 
 
 
