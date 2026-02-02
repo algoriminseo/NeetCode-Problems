@@ -1,26 +1,17 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        closing = { "(" : ")", "{" : "}", "[" : "]"}
-
+        # 1 <= s.length <= 10^4
+        # s consists of parentheses only '(){}[]'
         stack = []
+        hash_map = {")" : "(" , "]": "[", "}" : "{"}
 
-        if len(s) == 1 and (s[0] in "({[]})"):
-            return False
-
-        stack.append(s[0])
-        while stack:
-            for i in range(1, len(s)):
-                if s[i] in closing:
-                    stack.append(s[i])
-                elif closing[stack[-1]] == s[i]:
+        for ch in s:
+            if ch in hash_map:
+                if stack and stack[-1] == hash_map[ch]:
                     stack.pop()
                 else:
-                    return False 
-            if len(stack) > 0:
-                return False
-       
-        return True  
+                    return False
+            else:
+                stack.append(ch)
 
-
-
-
+        return True if not stack else False
