@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1584-min-cost-to-connect-all-points](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0739-daily-temperatures) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -335,4 +337,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
