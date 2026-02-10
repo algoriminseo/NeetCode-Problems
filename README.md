@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0853-car-fleet) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0704-binary-search) |
 ## Combinatorics
 |  |
 | ------- |
