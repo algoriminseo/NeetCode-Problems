@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -349,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0853-car-fleet) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
