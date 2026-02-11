@@ -8,22 +8,23 @@
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         #Iterative Sol
-        prev, curr = None, head
+        # prev, curr = None, head
 
-        while curr:
-            tmp = curr.next
-            curr.next = prev
-            prev = curr
-            curr = tmp
+        # while curr:
+        #     tmp = curr.next
+        #     curr.next = prev
+        #     prev = curr
+        #     curr = tmp
 
 
-        return prev
+        # return prev
         # Recursive Sol 
-        # if head is None or head.next is None:
-        #     return head
+        if head is None or head.next is None:
+            return head
         
-        # new_head = self.reverseList(head.next)
+        new_head = self.reverseList(head.next)
 
-        # head.next.next = head
-        # head.next = None
-        # return new_head    
+        head.next.next = head
+        head.next = None
+        return new_head
+
