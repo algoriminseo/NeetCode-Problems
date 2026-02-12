@@ -13,4 +13,7 @@ class Solution:
             second = second.next.next
             if first == second:
                 return True
-        return False 
+            
+
+    
+        return False
