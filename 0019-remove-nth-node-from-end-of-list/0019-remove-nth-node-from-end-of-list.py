@@ -18,5 +18,5 @@ class Solution:
             left = left.next
         
 
-        left.next.next = left.next
+        left.next = left.next.next
         return dummy.next
