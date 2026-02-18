@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0322-coin-change) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0338-counting-bits) |
 ## Trie
 |  |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0704-binary-search) |
 ## Combinatorics
