@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1584-min-cost-to-connect-all-points](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [2013-detect-squares](https://github.com/algoriminseo/NeetCode-Problems/tree/master/2013-detect-squares) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 ## Combinatorics
 |  |
 | ------- |
