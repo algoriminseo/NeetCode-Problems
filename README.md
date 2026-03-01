@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0739-daily-temperatures) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2013-detect-squares](https://github.com/algoriminseo/NeetCode-Problems/tree/master/2013-detect-squares) |
 ## Graph
 |  |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Recursion
 |  |
 | ------- |
