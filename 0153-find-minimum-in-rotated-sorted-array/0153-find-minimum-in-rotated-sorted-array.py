@@ -1,18 +1,38 @@
-# O(log(n)) time 
+# Constraints:
+
+# n == nums.length
+# 1 <= n <= 5000
+# -5000 <= nums[i] <= 5000
+# All the integers of nums are unique.
+# nums is sorted and rotated between 1 and n times.
+# 
+
+
 class Solution:
     def findMin(self, nums: List[int]) -> int:
-        left, right = 0 , len(nums) -1
-        res = nums[0]
+        l, r = 0 , len(nums)-1
 
-        while left <= right:
-            if nums[left] < nums[right]:
-                res = min(res, nums[left])
-                break
 
-            mid = (left + right) // 2
-            res = min(res, nums[mid])
-            if nums[mid] >= nums[left]:
-                left = mid + 1 
+        while l < r:
+            m = l + (r  - l ) // 2 
+            if nums[m] < nums[r]:
+                r = m 
             else:
-                right = mid - 1
-        return res
+                l = m + 1
+        return nums[l]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
