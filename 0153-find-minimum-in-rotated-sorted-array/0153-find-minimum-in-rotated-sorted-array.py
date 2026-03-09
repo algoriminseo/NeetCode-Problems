@@ -10,19 +10,18 @@
 
 class Solution:
     def findMin(self, nums: List[int]) -> int:
-        l, r = 0 , len(nums)-1
+        left, right = 0, len(nums) - 1
 
+        while left < right:
+            mid = left + (right - left ) // 2
 
-        while l < r:
-            m = l + (r  - l ) // 2 
-            if nums[m] < nums[r]:
-                r = m 
+            if nums[mid] < nums[right]:
+                right = mid
             else:
-                l = m + 1
-        return nums[l]
+                left = mid + 1
 
 
-
+        return nums[left]
 
 
 
