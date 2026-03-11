@@ -15,14 +15,16 @@ class Solution:
 
     def height(self, root):
         if not root:
-            return 0 
+            return 0
+        
         left, right = self.height(root.left), self.height(root.right)
         if left < 0 or right < 0:
-            return -1 
+            return -1
+        if abs(left - right) > 1:
+            return -1
 
-        if abs(right - left) > 1:
-            return -1 
         return max(left, right) + 1
+
 
 
 
