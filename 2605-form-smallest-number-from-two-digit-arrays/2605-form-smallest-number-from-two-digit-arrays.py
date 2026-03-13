@@ -6,13 +6,10 @@
 
 class Solution:
     def minNumber(self, nums1: List[int], nums2: List[int]) -> int:
-        nums1.sort()
-        nums2.sort()
-        
-        for num1 in nums1:
-            for num2 in nums2:
-                if num1 == num2:
-                    return num1
-        
-        res = min(nums1[0] * 10 + nums2[0], nums2[0] * 10 + nums1[0])
-        return res
+        common = set(nums1) & set(nums2)
+
+        if common:
+            return min(common)
+        min1 = min(nums1)
+        min2 = min(nums2)
+        return min(10 * min1 + min2, 10 * min2 + min1)
