@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1584-min-cost-to-connect-all-points](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [2013-detect-squares](https://github.com/algoriminseo/NeetCode-Problems/tree/master/2013-detect-squares) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/algoriminseo/NeetCode-Problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2013-detect-squares](https://github.com/algoriminseo/NeetCode-Problems/tree/master/2013-detect-squares) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/algoriminseo/NeetCode-Problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 ## Graph
 |  |
 | ------- |
@@ -433,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/algoriminseo/NeetCode-Problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 <!---LeetCode Topics End-->
