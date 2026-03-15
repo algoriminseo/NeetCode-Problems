@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Greedy
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0155-min-stack) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2013-detect-squares](https://github.com/algoriminseo/NeetCode-Problems/tree/master/2013-detect-squares) |
 ## Monotonic Stack
 |  |
@@ -435,8 +439,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Enumeration
 |  |
 | ------- |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/algoriminseo/NeetCode-Problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
