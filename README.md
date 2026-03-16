@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1036-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [2013-detect-squares](https://github.com/algoriminseo/NeetCode-Problems/tree/master/2013-detect-squares) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/algoriminseo/NeetCode-Problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1046-last-stone-weight](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1046-last-stone-weight) |
 ## Shortest Path
 |  |
 | ------- |
