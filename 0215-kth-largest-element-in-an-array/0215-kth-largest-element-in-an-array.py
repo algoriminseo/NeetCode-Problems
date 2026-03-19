@@ -1,5 +1,5 @@
 # Constraints:
-# Time : O(nlogn) Space : O(nlogn)
+# Time : O((n-k)logn) Space : O(n)
 # 1 <= k <= nums.length <= 105
 # -104 <= nums[i] <= 104
 
