@@ -11,15 +11,14 @@
 # -231 <= Node.val <= 231 - 1
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        
         def isValid(node, left, right):
             if not node:
                 return True
 
             if not(left < node.val < right):
                 return False
-            
-            return isValid(node.left, left ,node.val) and isValid(node.right, node.val, right)
+
+            return isValid(node.left, left, node.val ) and isValid(node.right, node.val, right)
 
 
         return isValid(root, float("-inf"), float("inf"))
@@ -27,4 +26,4 @@ class Solution:
 
 
 
-
+ 
