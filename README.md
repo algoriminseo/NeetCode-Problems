@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/algoriminseo/NeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/algoriminseo/NeetCode-Problems/tree/master/1143-longest-common-subsequence) |
